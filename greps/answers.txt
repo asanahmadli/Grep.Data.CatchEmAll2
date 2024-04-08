@@ -23,6 +23,8 @@ grep 'ortle' forest/filescan_00.4
 grep 'chu' forest/filescan_00.3
 grep 'saur' forest/filescan_00.4
 grep 'uck' forest/filescan_00.4
+grep "squi" forest/filescan_00.4
+
 
 
 
@@ -35,6 +37,12 @@ grep 'uck' forest/filescan_00.4
 
 # Part 2
 ### a)
+grep -c "" /Users/asan/Desktop/Projects/Grep.Data.CatchEmAll2/captured/*.txt
+/Users/asan/Desktop/Projects/Grep.Data.CatchEmAll2/captured/beedrill.txt:40
+captured/charizard.txt:39
+captured/pikachu.txt:39
+
+grep -c "forest" /Users/asan/Desktop/Projects/Grep.Data.CatchEmAll2/greps/answers.txt
 
 
 

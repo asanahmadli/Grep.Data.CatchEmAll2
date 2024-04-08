@@ -1,1 +1,0 @@
-grep 'aur' forest/filescan_00.3

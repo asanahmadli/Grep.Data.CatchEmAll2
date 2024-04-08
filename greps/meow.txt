@@ -1,1 +1,0 @@
-grep 'th' forest/filescan_00.3
