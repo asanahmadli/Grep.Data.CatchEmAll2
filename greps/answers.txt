@@ -1,18 +1,28 @@
 # Part 1
 ### a)
-grep  'rill' /Users/asan/Desktop/Projects/Grep.Data.CatchEmAll2/forest/filescan_00.1
-beed.txt
+
+grep  'rill' forest/filescan_00.1
+grep 'toise' forest/filescan_00.1
+grep 'asaur' forest/filescan_00.1
+grep 'erfree' forest/filescan_00.1
+
 
 
 
 ### b)
-
+grep 'izard' forest/filescan_00.2
+grep 'mander' forest/filescan_00.2
+grep 'meleon' forest/filescan_00.2
 
 
 ### c)
-
-
-
+grep 'aur' forest/filescan_00.3
+grep 'lypuff' forest/filescan_00.3
+grep 'th' forest/filescan_00.3
+grep 'ortle' forest/filescan_00.4
+grep 'chu' forest/filescan_00.3
+grep 'saur' forest/filescan_00.4
+grep 'uck' forest/filescan_00.4
 
 
 
